@@ -1,0 +1,105 @@
+body {
+    margin: 0;
+    text-align: center;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+img {
+
+    display: inline-block;
+    width: 100%;
+    height: 250px;
+}
+
+.header {
+    color: aquamarine;
+    font-size: 24px;
+    font-family: "Harrington";
+    font-style: italic;
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+
+}
+
+.resort-search input {
+    width: 10%;
+    padding: 10px 20px;
+    margin: 8px 0;
+    border-radius: 5px;
+    border: solid 0.5px;
+    font-size: 15px;
+}
+
+.resort-search input:focus {
+    border: 1px solid #00AA66;
+}
+
+.resort-search a {
+    font-size: 25px;
+    font-family: Calibri;
+}
+
+.resort-search button {
+    padding: 12px 30px 10px 30px;
+    border-radius: 5px;
+    background-color: aquamarine;
+    cursor: pointer;
+    outline: none;
+    border: 1px solid #00AA66;
+    font-family: Calibri;
+
+}
+
+.resort button:hover {
+    background-color: #6dd9af;
+}
+
+.content {
+    border: solid 1px black;
+    background: gainsboro;
+    padding: 10px;
+    margin-top: -3px;
+}
+
+.resort label {
+    margin-top: 10px;
+}
+
+.resorts {
+    background-color: white;
+}
+
+.res-holder {
+    border: solid 1px black;
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    float: left;
+    background-color: lightgoldenrodyellow;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+.pic {
+    display: inline-block;
+    float: left;
+    height: 150px;
+    width: 200px;
+
+}
+
+.comfort_level_value{
+    padding: 10px 20px;
+    margin: 8px 0;
+    border-radius: 5px;
+    border: solid 0.5px;
+    font-size: 15px;
+}
+
+.comfort_level_value:focus{
+    border: 1px solid #00AA66;
+}
+

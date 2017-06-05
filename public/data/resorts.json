@@ -1,0 +1,84 @@
+ [
+    {
+        "id": "resort1",
+        "destination": "Carribean",
+        "name": "Les Boucaniers",
+        "location": "Martinique",
+        "comfortLevel": "4",
+        "activities": ["water skiing", "tennis", "scuba diving", "kitesurf", "spa"],
+        "price": 1254,
+        "startDate": "2016-01-01",
+        "endDate": "2016-12-31",
+        "short_description": "The resort of Les Boucaniers is located on the laid-back beach-covered south coast of the island, and is perfectly placed for Martinique holidays that are both relaxing and awe-inspiring.",
+        "picture": "images/resort1pic1small.jpg",
+        "long_description": "A divers' paradise in the Baie du Marin, a legendary spot.<br>Its bungalows are discreetly lodged in a tropical garden beside the white sand beach in superb Marin Bay. A magical site where you can enjoy a taste of everything, alone or with family or friends. Try water sports and the magnificent Club Med Spa*. You'll be enchanted by the exotic flavours of the local cuisine and the joyful spirit of the Caribbean.",
+        "url": "resort1"
+    },
+
+
+    {
+        "id": "resort2",
+        "destination": "Indian Ocean",
+        "name": "La Plantation d'Albion",
+        "location": "Mauritius",
+        "comfortLevel": "5",
+        "activities": ["kids club", "golf", "scuba diving", "flying trapeze", "tennis", "sailing", "spa"],
+        "price": 2062,
+        "startDate": "2016-01-01",
+        "endDate": "2016-12-31",
+        "short_description": "Beautifully located in one of the last remote creeks on the island, La Plantation d'Albion Club Med welcomes the most demanding of guests into a world of supreme refinement.",
+        "picture": "images/resort2pic1small.jpg",
+        "long_description": "In a remote beauty spot, savour the luxury of Mauritian lifestyle. <br> The idyllic natural setting is enhanced by the sublime decor designed by Marc Hertrich and Nicolas Adnet, and the Resort's top-end comfort is perfectly reflected in its beautifully spacious rooms. The exceptional CINQ MONDES Spa* and luxurious overflow pool add an ideally Zen touch.<br> The Resort is entirely devoted to fulfilling its guests' desires and offers discreet, personal service in its swimming areas, bars and 'Table Gourmet' restaurants.",
+        "url": "resorts/resort2.html"
+    },
+
+
+    {
+        "id": "resort3",
+        "destination": "France Alps",
+        "name": "Alps resort",
+        "location": "France",
+        "comfortLevel": "4",
+        "activities": ["skiing", "party", "snowbording", "skydiving", "pool", "sailing", "spa"],
+        "price": 2014,
+        "startDate": "2015-12-01",
+        "endDate": "2015-12-31",
+        "short_description": "Beautifully located in one of the last remote creeks on the island, La Plantation d'Albion Club Med welcomes the most demanding of guests into a world of supreme refinement.",
+        "picture": "images/resort2pic1small.jpg",
+        "long_description": "France is the undisputed jewel in the Alpine crown and rightly deserves to be the most popular country in the world for British skiers. There's a huge choice of ski resorts located throughout the French Alps, all offering different attractions to different skiers of all abilites. From architect designed high-altitude family favourites like Avoriaz to charming traditional chocolate box resorts like Megeve - France has something for everyone. ",
+        "url": "resorts/resort3.html"
+    },
+
+    {
+        "id": "resort4",
+        "destination": "Luxury Brazil Holidays",
+        "name": "Itaparica",
+        "location": "Brasil",
+        "comfortLevel": "4",
+        "activities": ["kids club", "tennis", "flying trapeze", "discovery"],
+        "price": 2062,
+        "startDate": "2013-01-01",
+        "endDate": "2016-12-31",
+        "short_description": "Beautifully located in one of the last remote creeks on the island, La Plantation d'Albion Club Med welcomes the most demanding of guests into a world of supreme refinement.",
+        "picture": "images/resort2pic1small.jpg",
+        "long_description": "Brazil is a treasure chest of natural and cultural wonders. It is a vast country with a unique vibrancy found in its many captivating cities. Carnival is an electrifying celebration with its heart in Rio and its energy rippling across the country. In Brazil, you can experience big adventure as well as unadulterated luxury. You will be dazzled by its picture perfect white sand beaches, tropical islands, mighty Amazon rainforest and thundering waterfalls. Trek, dive, raft, kayak, whale watch, explore or simply unwind at one of Brazil's sublime five-star luxury spa hotels..",
+        "url": "resorts/resort4.html"
+    },
+
+
+    {
+        "id": "resort5",
+        "destination": "Travelling to Tunisia ",
+        "name": "Djerba La Douce",
+        "location": "Tunisia",
+        "comfortLevel": "4",
+        "activities": ["kids club", "golf", "scuba diving", "flying trapeze", "tennis", "sailing", "spa"],
+        "price": 2062,
+        "startDate": "2015-01-01",
+        "endDate": "2016-12-31",
+        "short_description": "Finally, at Djerba La Douce, those with young children will be delighted by the resort’s children’s club and health spa, and the traditionally decorated rooms of the Hotel Calypso.",
+        "picture": "images/resort2pic1small.jpg",
+        "long_description": "What are your customers asking for this year? The chances are it’s something along the lines of “sun, sea and sand, just a short-haul flight away – oh, and good value for money”.",
+        "url": "resorts/resort5.html"
+    }
+ ]
